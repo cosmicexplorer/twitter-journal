@@ -1,0 +1,8 @@
+#+TITLE: twitter-journal
+
+A blank slate where the only available action is tweeting. To avoid getting distracted and overrunning iOS Screen Time limits when just trying to pop out a quick thought.
+
+* Features
+- just an iOS app for now
+- uses ~twitter.nim~ library as a native code blob
+  - /with header files from nim's transpilation to C/
